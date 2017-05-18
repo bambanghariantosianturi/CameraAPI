@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\android\Mercu13_camera2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03576d89476db18bdb9305702aaa202feba77440">
+        <dex dex="E:\android\Mercu13_camera2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_fa57a40e47e7693adce0d5ebc5728d8e7328fb50\classes.dex" />
+    </item>
+    <item
+        jar="E:\android\Mercu13_camera2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d91ee595f7006dd9884f55fcc76523c5bd1b1d89">
+        <dex dex="E:\android\Mercu13_camera2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7ae9728bbe41ea988b9584920492f1ab1777dd45\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\khaliq\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\android\Mercu13_camera2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_a2162fc818a328925fece735368dbe31331ce893\classes.dex" />
+    </item>
+
+</items>
